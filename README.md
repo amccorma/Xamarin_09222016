@@ -1,8 +1,7 @@
 Demo
 -----------------------------------------------------------------------
 
-
-
+![ScreenShot](https://raw.github.com/amccorma/Xamarin_09222016/master/Demo/DemoSlideshow/full.png)
 
 Links
 -----------------------------------------------------------------------
