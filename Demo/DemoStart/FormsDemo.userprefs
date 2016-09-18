@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{66AE9354-49AD-4D97-9F92-DFB00CB656FB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Demo.Droid PreferredExecutionTarget="Android.5&quot; KitKat (4.4) XXHDPI Phone" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mccorma/Desktop/FormsDemo/Forms/MainPage.xaml.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Demo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8EE8F8F2-ED69-4A45-A030-57B6B1E08835" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid\MainActivity.cs">
+    <Files>
+      <File FileName="Forms\ViewModels\LoginPageViewModel.cs" Line="55" Column="55" />
+      <File FileName="iOS\Effects\TextBoxNoAutoComplete.cs" Line="7" Column="27" />
+      <File FileName="Droid\Effects\TextBoxNoAutoComplete.cs" Line="20" Column="4" />
+      <File FileName="C:\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" Line="2056" Column="3" />
+      <File FileName="Droid\Resources\values\styles.xml" Line="2" Column="1" />
+      <File FileName="Droid\MainActivity.cs" Line="19" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <DisabledProjects>
+    <String>FormsDemo.csproj</String>
+  </DisabledProjects>
+</Properties>

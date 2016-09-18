@@ -1,0 +1,131 @@
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid.pdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid.apk
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid-Signed.apk
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\FormsViewGroup.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\FormsViewGroup.pdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\RecorderDemo.Droid.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\RecorderDemo.Droid.dll
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\RecorderDemo.Droid.pdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\bin\RecorderDemo.Droid.apk
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\res\drawable\icon.png
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\res\drawable\editbackground.xml
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\res\values\colors.xml
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\R.cs.flag
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\uploadflags.txt
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Java.Interop.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Mono.Android.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\mscorlib.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.Core.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.Net.Http.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.Xml.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\RecorderDemo.Droid.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Documents\Visual Studio 2015\Projects\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\RecorderDemo.Droid.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid.pdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid.apk
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid-Signed.apk
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\FormsViewGroup.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Core.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\FormsViewGroup.pdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\FormsViewGroup.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Core.xml
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\RecorderDemo.Droid.csprojResolveAssemblyReference.cache
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\RecorderDemo.Droid.dll
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\RecorderDemo.Droid.pdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\bin\RecorderDemo.Droid.apk
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\res\drawable\icon.png
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\res\drawable\editbackground.xml
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\res\values\colors.xml
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\R.cs.flag
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\uploadflags.txt
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Java.Interop.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\Mono.Android.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\mscorlib.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.Core.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.Net.Http.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.Xml.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\RecorderDemo.Droid.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\obj\Debug\RecorderDemo.Droid.dll.mdb
+G:\XamarinDemo\RecorderDemo\RecorderDemo\RecorderDemo.Droid\bin\Debug\RecorderDemo.Droid.dll.mdb
