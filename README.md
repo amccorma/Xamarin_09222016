@@ -1,78 +1,38 @@
-Updates
+Demo
 -----------------------------------------------------------------------
-8-1-2016:
 
-	Fix for Marquee Label for Forms and iOS Xamarin.  
-	Source code updated for latest Xamarin releases. Test samples.  
-	To Download. Go to the folder and save the archive.zip file.
-
-
-3-8-2016:
-
-	Masked Edit - Android, iOS, Forms - Bug Fix in Regular Expression.  
-	http://forums.xamarin.com/discussion/comment/184478#Comment_184478	
-
-3-7-2016:
-
-	Updated Packages.  
-	Recompiled with new Xamarin Forms Release
-	Fixing Bindings, removed BindableProperty.Create<> with BindableProperty.Create()
-	Fixed Android Video Player Bug.  Video would not play
-	Updated LoadingViews
-		
+	
 	
 
-Links to Other Projects
+Links
 -----------------------------------------------------------------------
 
-Android Popupwindow
+https://developer.xamarin.com/guides/xamarin-forms/getting-started/
 
-https://gist.github.com/libinbensin/67fcc43a7344758390c3
+http://www.gorillaplayer.com/
 
-Android App Icon Badges
- 
-https://github.com/wcoder/ShortcutBadger
-https://github.com/leolin310148/ShortcutBadger
+https://components.xamarin.com/?category=plugins
 
+https://github.com/xamarin/XamarinComponents
 
-Xamarin iOS 
------------------------------------------------------------------------
+https://github.com/XLabs/Xamarin-Forms-Labs
 
-iOSMaskedEdit: iOS - Masked Edit
+https://hockeyapp.net/
 
+https://github.com/PrismLibrary/Prism
 
-Xamarin Android 
------------------------------------------------------------------------
+https://developer.xamarin.com/guides/cross-platform/inspector/
 
-MaskedEditAndroid: Android - Masked Edit
+https://developer.xamarin.com/guides/cross-platform/workbooks/
 
+https://www.xamarin.com/test-cloud/recorder
 
-Xamarin Forms: 
------------------------------------------------------------------------
-FrameBorder: iOS / Android
-	Borders: turn on off borders on each side, Border Color, Border Thickness, Border Radius
-	Shadow: on/off, color, radius, offset
+Genymotion
+https://www.genymotion.com/
 
-DeviceEncryption: iOS / Android
+Xamarin Android Player:
+https://developer.xamarin.com/releases/android/android-player/
 
-MaskedEdit: iOS / Android
-
-Picker To Button: Android / iOS
-
-Picker iOS/Android:  Hide/replace with control
-
-LoadingViews:  overlay fragments or UIViews to show loading indicator
-
-iOSMarqueeLabel:  renderer for Marquee label in iOS
-
-DeviceTask:  Finite Length Task and Android Service for Xamarin Forms.
-
-VideoPlayer: iOS / Android Xamarin
-
-TopAlert: iOS /Android.  Top Bar Alerts
-
-Android Permissions:  Android-M / Mashmellow Xamarin Forms Permission Layer (uses Task and await pattern)
-
-DropDown: iOS / Android.  Xamarin Forms.
-
-DropDown2: iOS / Android.  Xamarin Forms. Popup modal DropDown. 
+Google Play apk for Genymotion or Android Player:
+https://university.xamarin.com/resources/how-to-install-google-play-on-android-emulator
+http://www.teamandroid.com/gapps/
