@@ -29,6 +29,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Exts\LinqExtensions.cs" />
+    <Compile Include="Interfaces\ISharedPrefs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="App.cs" />
   </ItemGroup>

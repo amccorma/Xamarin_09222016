@@ -11,6 +11,8 @@ using Forms.Demo;
 using Prism;
 using Prism.Unity;
 using Microsoft.Practices.Unity;
+using Forms.Demo.Interfaces;
+using psea.droid.Prefs;
 
 namespace FormsDemo.Droid
 {
@@ -29,4 +31,13 @@ namespace FormsDemo.Droid
 			LoadApplication(new App());
 		}
 	}
+
+    //public class AndroidInitializer : IPlatformInitializer
+    //{
+    //    public void RegisterTypes(IUnityContainer container)
+    //    {
+    //        // lifecycle Unity: http://www.tomdupont.net/2013/12/undestanding-unity-lifetime-managers.html
+    //        container.RegisterType<ISharedPrefs, SharedPrefs>();
+    //    }
+    //}
 }
