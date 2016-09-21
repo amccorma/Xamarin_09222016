@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+		xmlns="http://xamarin.com/schemas/2014/forms" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+	  prism:ViewModelLocator.AutowireViewModel="True"
+		x:Class="Forms.Demo.NotesPage"
+    Title="Notes">
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
+    <ToolbarItem Text="Logout" Command="{Binding LogoutCommand}"/>
+  </ContentPage.ToolbarItems>
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <DataTemplate x:Key="ItemDataTemplate">
+        <ViewCell>
+          <ViewCell.View>
+            <StackLayout>
+              <Label Text="{Binding Text}"></Label>
+              <Label Text="{Binding Entered, StringFormat='{0:MMMM d, yyyy HH:mm}'}" FontAttributes="Bold"></Label>
+            </StackLayout>
+          </ViewCell.View>
+        </ViewCell>
+      </DataTemplate>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+	<ContentPage.Content>
+    <ListView 
+      ItemTapped="ItemSelected"
+      ItemTemplate="{StaticResource ItemDataTemplate}"
+      ItemsSource="{Binding Path=Items}">
+    </ListView>
+	</ContentPage.Content>
+</ContentPage>

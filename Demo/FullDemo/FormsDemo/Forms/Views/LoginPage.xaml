@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	xmlns:e="clr-namespace:Forms.Demo.Effects;assembly=Forms.Demo"
+	xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+	prism:ViewModelLocator.AutowireViewModel="True"
+	x:Class="Forms.Demo.LoginPage"
+	Title="Login">
+	<StackLayout>
+		<Label Text="Login Screen. Enter your name to continue"></Label>
+		<Entry Text="{Binding Path=UserName}" Placeholder="Enter Name">
+			<Entry.Effects>
+	        	<e:TextBoxNoAutoComplete />
+	   	 	</Entry.Effects>
+		</Entry>
+		<Button Text="Enter" Command="{Binding LoginCommand}"></Button>
+	</StackLayout>
+</ContentPage>
